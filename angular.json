@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ProgressBar"
+    }
+  },
+  "defaultProject": "ProgressBar",
+  "cli": {
+    "analytics": "b3ee4d68-d750-48ab-ae4e-9b6810d2d89b"
+  }
 }
